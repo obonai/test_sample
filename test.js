@@ -16,5 +16,5 @@ var update_field_moneth = function(){
 var print_field_state = function(){
   console.log(
     "草原は今 " + current_month + " ヶ月目、" +
-    "うさぎのペアーは " + current_number_of_pairs + " 組だよ！！");
+    "うさぎのペアーは " + current_number_of_pairs + " 組だよ☆");
 };
